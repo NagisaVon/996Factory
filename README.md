@@ -14,7 +14,6 @@ This is a shared Satisfactory game save of Project Teheran. The current game ver
 git init
 git remote add origin https://github.com/NagisaVon/Satisfactory_Proj_Teheran.git 
 git pull origin main
-
 ```
 
 ## Rules 
