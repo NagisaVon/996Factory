@@ -2,6 +2,7 @@
 *
 
 # Except the Teheran sessions 
+!Teheran_*/
 !Teheran_*.sav
 
 # And the gitignore file itself
