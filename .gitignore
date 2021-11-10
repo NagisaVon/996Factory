@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except the Teheran sessions 
+!Teheran_*.sav
+
+# And the gitignore file itself
+!.gitignore
+
