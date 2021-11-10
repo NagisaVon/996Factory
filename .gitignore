@@ -8,3 +8,7 @@
 # And the gitignore file itself
 !.gitignore
 
+# And the README file
+!README.md
+
+
